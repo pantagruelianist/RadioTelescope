@@ -1,0 +1,3 @@
+C:\Users\Spencer\Documents\RadioTelescope\RadioTelescope\RadioTelescopeForSchool\RadioTelescopeProject\Debug\RadioTelescopeProject.exe
+C:\RadioTelescopeForSchool\RadioTelescopeProject\Debug\RadioTelescopeProject.exe
+C:\Users\Spencer\source\repos\Final Project Engineering 2302\RadioTelescope\RadioTelescopeForSchool-main\RadioTelescopeProject\Debug\RadioTelescopeProject.exe

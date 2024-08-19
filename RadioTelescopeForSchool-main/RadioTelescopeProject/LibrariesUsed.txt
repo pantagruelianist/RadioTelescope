@@ -1,0 +1,6 @@
+IMGUI - https://github.com/ocornut/imgui
+AccelStepper - https://www.airspayce.com/mikem/arduino/AccelStepper/
+stb (image composer) - https://github.com/nothings/stb/blob/master/stb_image_write.h
+Big thanks to the following: 
+
+Students of University of Pennsylvania - https://github.com/UPennEoR/MiniRadioTelescope/tree/master

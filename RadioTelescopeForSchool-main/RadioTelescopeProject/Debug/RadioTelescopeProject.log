@@ -1,0 +1,21 @@
+﻿  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating Code...
+  ArduinoFileControl.cpp
+  ArduinoProgram.cpp
+  ArduinoSendbackControl.cpp
+  ImageCompiler.cpp
+C:\Users\Spencer\source\repos\Final Project Engineering 2302\RadioTelescope\RadioTelescopeForSchool-main\RadioTelescopeProject\ZClasses\ImageCompiler.cpp(64,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  main.cpp
+C:\Users\Spencer\source\repos\Final Project Engineering 2302\RadioTelescope\RadioTelescopeForSchool-main\RadioTelescopeProject\ZClasses\ImageCompiler.cpp(64,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Spencer\source\repos\Final Project Engineering 2302\RadioTelescope\RadioTelescopeForSchool-main\RadioTelescopeProject\ZClasses\main.cpp(216,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Spencer\source\repos\Final Project Engineering 2302\RadioTelescope\RadioTelescopeForSchool-main\RadioTelescopeProject\ZClasses\main.cpp(251,69): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  RadioTelescopeProject.vcxproj -> C:\Users\Spencer\source\repos\Final Project Engineering 2302\RadioTelescope\RadioTelescopeForSchool-main\RadioTelescopeProject\Debug\RadioTelescopeProject.exe
